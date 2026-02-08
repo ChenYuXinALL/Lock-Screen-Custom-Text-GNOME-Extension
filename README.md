@@ -2,7 +2,7 @@
 
 A professional GNOME Shell extension that allows you to display a custom, highly-configurable text message on your lock screen. 
 
-Specifically optimized for **GNOME 46 and 47**.
+Specifically optimized for **GNOME 46 47 48 49**.
 
 ## 🚀 Key Features
 
@@ -17,6 +17,8 @@ Specifically optimized for **GNOME 46 and 47**.
   - Proper memory management to prevent crashes during multiple lock/unlock cycles.
 
 ## 🛠 Installation
+
+### Go to [GNOME Extensions](https://extensions.gnome.org/extension/9313/lock-screen-custom-text/)
 
 ### Manual Installation
 1. Move the folder to `~/.local/share/gnome-shell/extensions/`.
