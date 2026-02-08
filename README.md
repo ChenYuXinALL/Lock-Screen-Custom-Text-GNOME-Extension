@@ -2,7 +2,7 @@
 
 A professional GNOME Shell extension that allows you to display a custom, highly-configurable text message on your lock screen. 
 
-Specifically optimized for **GNOME 46 47 48 49**.
+Specifically optimized for **GNOME 45 46 47 48 49**.
 
 ## 🚀 Key Features
 
