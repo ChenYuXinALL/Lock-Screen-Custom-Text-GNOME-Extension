@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.lock-screen-custom-text" path="/org/gnome/shell/extensions/lock-screen-custom-text/">
+    <key name="custom-text" type="s"><default>"Hello GNOME"</default></key>
+    <key name="font-size" type="i"><default>32</default></key>
+    <key name="text-color" type="s"><default>"#ffffff"</default></key>
+    <key name="shadow-blur" type="i"><default>5</default></key>
+    <key name="shadow-color" type="s"><default>"rgba(0,0,0,0.8)"</default></key>
+    <key name="alignment" type="i"><default>0</default></key>
+    <key name="v-alignment" type="i"><default>0</default></key>
+  </schema>
+</schemalist>

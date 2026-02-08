@@ -1,0 +1,9 @@
+{
+  "name": "Lock Screen Custom Text",
+  "description": "Display custom text on lock screen.(This will take effect on the lock screen after logging in.) 在锁定屏幕显示自定义文本.",
+  "uuid": "lock-screen-custom-text@Chen07",
+  "settings-schema": "org.gnome.shell.extensions.lock-screen-custom-text",
+  "version": 1,
+  "shell-version": [ "45", "46", "47", "48" , "49" ],
+  "session-modes": [ "user", "unlock-dialog" ]
+}

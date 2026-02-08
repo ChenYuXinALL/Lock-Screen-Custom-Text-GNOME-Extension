@@ -1,0 +1,6 @@
+.custom-lock-label {
+    /* 增加 20px 安全边距，防止贴边 */
+    padding: 20px;
+    /* 强制重绘 */
+    background-color: transparent;
+}
